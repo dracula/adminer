@@ -6,7 +6,7 @@
 
 ## Install
 
-Copy [adminer.css](./adminer.css) alongside Adminer PHP script to use design.
+Copy [adminer.css](.theme/adminer.css) alongside Adminer PHP script to use design.
 
 ## Team
 
