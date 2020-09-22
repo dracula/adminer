@@ -6,15 +6,16 @@
 
 ## Install
 
-Copy [adminer.css](.theme/adminer.css) alongside Adminer PHP script to use design.
+All instructions can be found at [draculatheme.com/adminer](https://draculatheme.com/adminer).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/adminer/graphs/contributors).
 
-|[![Douglas Damasio](https://avatars1.githubusercontent.com/u/57931045?s=70&u=c24a9ea2ba77986b905813280b3b87c15acc1f9b&v=4)](https://github.com/douglasdamasio)|
-|---|
-|[Douglas Damasio](https://github.com/nesl247)|
+|[![Douglas Damasio](https://avatars1.githubusercontent.com/u/57931045?s=70&u=c24a9ea2ba77986b905813280b3b87c15acc1f9b&v=4)](https://github.com/douglasdamasio) |
+|--- |
+|[Douglas Damasio](https://github.com/douglasdamasio) |
+
 ## License
 
 [MIT License](./LICENSE)
