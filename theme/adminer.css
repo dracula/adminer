@@ -1,8 +1,9 @@
 /* 
  * Theme by Douglas Damasio [http://github.com/douglasdamasio]
- * Based on Pepa Linha [https://github.com/vrana/adminer/tree/master/designs/pepa-linha]
+ * Modified by Evan Davies
+ * Based on Pepa Linha
  * Color syntax inspired by Dracula Theme [https://draculatheme.com/]
- * @version 1.0 (June 2020)
+ * @version 1.0.1 (June 2022)
  */
  @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&family=Ubuntu:wght@500;700&display=swap');
 
@@ -201,7 +202,8 @@
  legend {
    display: inline-block;
    padding: 6px 15px;
-   margin: 0 0 0 -15px;
+   /* margin: 0 0 0 -15px; */
+   margin: 0;
    background: var(--color-darkDraculaSite);
    font-family: 'Source Sans Pro', sans-serif;
    color: var(--color-darkOrange);
@@ -393,7 +395,7 @@
    float: none;
  }
  
- #tables a[title] {
+ #tables .structure, #tables .view {
    float: none;
    display: block;
  }
@@ -524,7 +526,7 @@
    margin-bottom: 5px;
    transition: background .4s ease;
    border-radius: 5px;
-   margin-top: 20px;
+   /* margin-top: 20px; */
  }
  
  input[type=submit][disabled],
@@ -571,8 +573,12 @@
  
  label {
    cursor: pointer;
-   margin: 18px;
+   /* margin: 18px; */
    color: var(--color-darkOrange);
+ }
+
+ .size {
+   width: 5em;
  }
  
  .error,
