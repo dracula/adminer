@@ -2,7 +2,7 @@
 
 > A dark theme for [Adminer](https://www.adminer.org/).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./screenshot.jpg)
 
 ## Install
 
